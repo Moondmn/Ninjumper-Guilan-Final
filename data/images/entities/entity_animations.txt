@@ -1,0 +1,5 @@
+player/idle/ 40;40;70;40 loop
+player/run/ 3;2;2;3 loop
+player/jump/ 7 loop
+enemy/idle/ 1 loop
+shooter/idle/ 1 loop
